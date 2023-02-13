@@ -69,4 +69,3 @@ print()
 print(f"The entered number of berries on each bush: {filled_list_of_bushes}"
       f"\nThe maximum number of berries that the picking module can collect"
       f" in one run: {RESULT}")
-
